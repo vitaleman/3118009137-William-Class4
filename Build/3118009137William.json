@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "William prj",
+"productVersion": "0.1",
+"dataUrl": "3118009137William.data.unityweb",
+"wasmCodeUrl": "3118009137William.wasm.code.unityweb",
+"wasmFrameworkUrl": "3118009137William.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "3118009137William.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
